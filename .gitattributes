@@ -1,0 +1,5 @@
+*.png filter=lfs diff=lfs merge=lfs -text
+*.rlib filter=lfs diff=lfs merge=lfs -text
+target/debug/deps/libsolana_rpc_client-0e295f7618979cf3.rlib filter=lfs diff=lfs merge=lfs -text
+*.java text eol=lf
+*.sh text eol=lf

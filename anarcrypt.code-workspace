@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "anarcrypt"
+		},
+		{
+			"path": "../.Trash/src"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
